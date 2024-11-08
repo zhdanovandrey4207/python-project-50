@@ -15,6 +15,3 @@ package-reinstall:
 
 gendiff:
 	poetry run gendiff
-
-generate-diff:
-	poetry run generate-diff
